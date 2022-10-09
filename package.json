@@ -1,0 +1,8 @@
+{
+  "name": "pegasus-bot",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "private",
+  "private": true,
+  "type": "module"
+}
