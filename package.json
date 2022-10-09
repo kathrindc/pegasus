@@ -4,5 +4,8 @@
   "main": "index.js",
   "license": "private",
   "private": true,
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "discord.js": "^14.5.0"
+  }
 }
