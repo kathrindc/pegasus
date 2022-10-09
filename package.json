@@ -7,6 +7,7 @@
   "type": "module",
   "dependencies": {
     "discord.js": "^14.5.0",
+    "sequelize": "^6.24.0",
     "sqlite3": "^5.1.2"
   }
 }
