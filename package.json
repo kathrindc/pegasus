@@ -2,7 +2,7 @@
   "name": "pegasus-bot",
   "version": "0.1.0",
   "main": "index.js",
-  "license": "private",
+  "license": "ISC",
   "private": true,
   "type": "module",
   "dependencies": {
