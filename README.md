@@ -6,7 +6,7 @@ The bot is written in JavaScript (tested with Node 18.8) and is meant to run in 
 
 ## 🗺️ Roadmap
 
-* [ ] Event scheduling assistant
+* [x] Event scheduling assistant
 
 * [ ] Magic The Gathering card lookup
 
