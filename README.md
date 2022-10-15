@@ -8,7 +8,7 @@ The bot is written in JavaScript (tested with Node 18.8) and is meant to run in 
 
 * [x] Event scheduling assistant
 
-* [ ] Magic The Gathering card lookup
+* [x] Magic The Gathering card lookup
 
 * [ ] Extended polls / voting
 
